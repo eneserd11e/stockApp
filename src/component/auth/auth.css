@@ -1,0 +1,40 @@
+.authBody{
+    width: 800px; 
+    height: 300px; 
+    padding: 20px; 
+    
+    position: relative; 
+    margin: auto; 
+}
+
+.authBox{
+    margin-top: 70px;
+    background-color:white;
+    -webkit-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    -moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    box-shadow:0 0 20px rgba(0,0,0,0.8);
+    height: 800px;
+}
+.authImage{
+    width:400px;
+    height:800px;
+    padding: 0px;
+    
+}
+
+.authInputArea{
+    padding-top: 150px;
+    text-align: center;
+
+}
+
+.authButton{
+    width: 230px;
+    height: 50px;
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+.authButton:hover{
+    border: 1px solid black;
+}
